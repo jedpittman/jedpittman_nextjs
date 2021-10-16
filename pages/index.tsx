@@ -31,7 +31,7 @@ export default function Home() {
 
           <div className={styles.card}>
             <h2>Projects</h2>
-            <p><a href="https://www.jobhopper.net">Jobhopper: Visualize Job Transitions</a></p>
+            <p><a href="https://www.jobhopper.live">Jobhopper: Visualize Job Transitions</a></p>
             <p><a href="https://github.com/jedpittman">Jed Pittman&apos;s GitHub Profile</a></p>
           </div>
 
